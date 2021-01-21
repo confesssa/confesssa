@@ -64,7 +64,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 **confesssa/confesssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - добавить статистику программирования
-- найти иконки для VSCode, Sass, Wepback
+- найти иконки для VSCode, Sass, Wepback, Markdown
 - 🤝
 
 
