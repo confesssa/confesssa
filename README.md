@@ -5,12 +5,12 @@
 <a href="https://discord.gg/#5276" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5276" height="30" width="40" /></a>
 </p>
 
-## Hi 👋 I`m Volha!
+## Hi 👋 I'm Volha!
 
 <details>
  <summary> <b>A few words about me 👩</b> </summary>
 <br>
-When I was in high school, computer science was one of my favorite subjects. One day, the teacher gave us a task as homework: to create a sample webpage: I remember that night I could not sleep and spent all the time doing my homework, and in the process I had much fun. 😺 Unfortunately after that my life took a different turn, and for a long time my interest were directed to completely different fields.
+When I was in high school, computer science was one of my favorite subjects. One day, the teacher gave us a task as homework: to create a sample webpage. I remember that night I could not sleep and spent all the time doing my homework, and in the process I had a lot of fun. 😺 Unfortunately after that my life took a different turn, and for a long time my interest were directed to completely different fields.
 
 Now, after more than 10 years, I decided to change the field of activity and try myself as a developer, taking that long-forgotten path which had once appeared in my life. At the moment I am a student at <a href="https://rs.school/js/">RS.School</a>, and I have the ambition of becoming a full-fledged web developer. There is much to do and to learn, but I feel very motivated and ready to face this exciting challenge. 💪
 
@@ -32,7 +32,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 ## My projects
 
 <ul>
-<li>The first one is the Landing page about Bootstrap, created using Bootstrap. 😆 The code you can find <a href="https://github.com/confesssa/Bootstrap-landing-page">here.</a> Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here.</a></li>
+<li>The first one is the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here.</a> Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here.</a></li>
 
 ![image info](./assets/bootstrap.jpg)
 
