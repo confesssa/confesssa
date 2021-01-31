@@ -2,7 +2,7 @@
 <p align="right">
 <a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volha-khviadchenia" height="30" width="40" /></a>
 <a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
-<a href="https://discord.gg/#5276" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5276" height="30" width="40" /></a>
+<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.jpg" alt="#5276" height="30"/></a>
 </p>
 
 ## Hi 👋 I'm Volha!
@@ -61,7 +61,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p align="left">
 <a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volha-khviadchenia" height="30" width="40" /></a>
 <a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
-<a href="https://discord.gg/#5276" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5276" height="30" width="40" /></a>
+<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.jpg" alt="#5276" height="30"/></a>
 </p>
 
 <!--
