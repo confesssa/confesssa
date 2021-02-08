@@ -46,6 +46,14 @@ Now, after more than 10 years, I decided to change the field of activity and try
 ## Some stats
 
 <details>
+ <summary> <b>My Codewars Stats</b> </summary>
+<a href="https://www.codewars.com/users/confesssa/stats">
+<img src="https://www.codewars.com/users/confesssa/badges/small" alt="codewars">
+</img>
+</a>
+ </details>
+
+<details>
  <summary> <b>My GitHub Stats</b> </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confesssa&show_icons=true&locale=en&layout=compact" alt="confesssa" /></p>
 
