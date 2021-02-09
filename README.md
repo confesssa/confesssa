@@ -47,10 +47,10 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 <details>
  <summary> <b>My Codewars Stats</b> </summary>
-<a href="https://www.codewars.com/users/confesssa/stats">
+<p><a href="https://www.codewars.com/users/confesssa/stats">
 <img src="https://www.codewars.com/users/confesssa/badges/small" alt="codewars">
 </img>
-</a>
+</a></p>
  </details>
 
 <details>
@@ -60,9 +60,12 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=confesssa&show_icons=true&locale=en" alt="confesssa" /></p>
  </details>
 
- <!-- <details>
+ <details>
  <summary> <b>My programming Stats</b> </summary>
- </details> -->
+ <!--START_SECTION:waka-->
+ 
+<!--END_SECTION:waka-->
+ </details>
 
 ## Contact me
 
