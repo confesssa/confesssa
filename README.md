@@ -60,12 +60,15 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=confesssa&show_icons=true&locale=en" alt="confesssa" /></p>
  </details>
 
- <details>
+ <!-- <details>
  <summary> <b>My programming Stats</b> </summary>
  <!--START_SECTION:waka-->
- 
+
 <!--END_SECTION:waka-->
- </details>
+ <!-- </details> -->
+
+<!-- ## My publication
+<a href="https://confesssa.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> The article on Medium</a> -->
 
 ## Contact me
 
@@ -74,13 +77,3 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
 <a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.jpg" alt="#5276" height="30"/></a>
 </p>
-
-<!--
-**confesssa/confesssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- добавить статистику программирования
-- 🤝
-
-
-
-  -->
