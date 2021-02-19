@@ -35,7 +35,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 ## My projects
 
 <ul>
-<li>The first one is the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a> or you can click on the image below. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here.</a></li>
+<li>The first one is the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</li>
 
 <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">
 <img src ="./assets/bootstrap.jpg"></a>
