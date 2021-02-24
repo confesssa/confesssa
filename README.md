@@ -2,7 +2,7 @@
 <p align="right">
 <a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volha-khviadchenia" height="30" width="40" /></a>
 <a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
-<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.jpg" alt="#5276" height="30"/></a>
+<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.png" alt="#5276" height="30"/></a>
 </p>
 
 ## Hi 👋 I'm Volha!
@@ -35,7 +35,14 @@ Now, after more than 10 years, I decided to change the field of activity and try
 ## My projects
 
 <ul>
-<li>The first one is the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</li>
+<li>
+<p>The first one in a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
+<p>Tools: HTML, CSS, Vanilla JS</p>
+<a href="https://confesssa.github.io/calculator-JS/">
+<img src ="./assets/calculator.png"></a>
+</li>
+<li>It's the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</li>
+<p>Tools: HTML, CSS, Bootstrap CSS + JS</p>
 
 <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">
 <img src ="./assets/bootstrap.jpg"></a>
@@ -75,5 +82,5 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p align="left">
 <a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volha-khviadchenia" height="30" width="40" /></a>
 <a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
-<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.jpg" alt="#5276" height="30"/></a>
+<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.png" alt="#5276" height="30"/></a>
 </p>
