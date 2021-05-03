@@ -16,8 +16,6 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 </details>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=confesssa&" alt="confesssa" /></p>
-
 ## Languages and Tools
 
 <p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/340px-Javascript-shield.svg.png" alt="javascript" height="40"/> </a>
@@ -65,6 +63,8 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confesssa&show_icons=true&locale=en&layout=compact" alt="confesssa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=confesssa&show_icons=true&locale=en" alt="confesssa" /></p>
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=confesssa&" alt="confesssa" /></p>
  </details>
 
  <!-- <details>
