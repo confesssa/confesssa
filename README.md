@@ -40,7 +40,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p><strong>Tools: pure HTML and CSS, Vanilla JS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong> </p>
 <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image below.</p>
 <a href="https://confesssa.github.io/gem-puzzle/">
-<img src ="./Assets/gem-puzzle.jpg"></a>
+<img src ="./assets/gem-puzzle.jpg"></a>
 </li>
 <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
 <p>Tools: pure HTML/CSS, Vanilla JS</p>
