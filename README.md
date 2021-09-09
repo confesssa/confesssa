@@ -32,15 +32,23 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 ## My projects
 
+<i>The project implemented with React JS will be added soon.</i> 😃<i> In the meantime, you can look at projects implemented with pure HTML/CSS and Vanilla JS, which are located below.</i>
 <ul>
 <li>
-<p>The first one in a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
-<p>Tools: HTML, CSS, Vanilla JS</p>
+<p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
+<p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
+<p><strong>Tools: pure HTML and CSS, Vanilla JS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong> </p>
+<p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image below.</p>
+<a href="https://confesssa.github.io/gem-puzzle/">
+<img src ="./Assets/gem-puzzle.jpg"></a>
+</li>
+<p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
+<p>Tools: pure HTML/CSS, Vanilla JS</p>
 <a href="https://confesssa.github.io/calculator-JS/">
 <img src ="./assets/calculator.png"></a>
 </li>
 <li>It's the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</li>
-<p>Tools: HTML, CSS, Bootstrap CSS + JS</p>
+<p>Tools: pure HTML/CSS, Bootstrap CSS + JS</p>
 
 <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">
 <img src ="./assets/bootstrap.jpg"></a>
