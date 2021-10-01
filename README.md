@@ -16,6 +16,8 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 </details>
 
+---
+
 ## Skills
 
 <p>
@@ -34,6 +36,8 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img title="PSDetch" src="./assets/psdetch.png" alt="psdetch" width="40" height="40"/></p>
 
+---
+
 ## Education
 
 **Higher education**
@@ -42,11 +46,11 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 **Web development courses**
 
-- <details><summary><p>[Rolling Scopes School](https://rs.school/poland/)</p></summary>
-  <p><img src="./assets/Certificate.jpg"></p>
+- <details><summary>Rolling Scopes School</summary>
+  <p><img width="50%" src="./assets/Certificate.jpg"></p>
    </details>
 
-- [React - Professional Development](https://www.udemy.com/course/pro-react-redux/) (incl Hooks, React Router, Redux)
+- React - Professional Development (incl Hooks, React Router, Redux)
 
 - <details> 
     <summary> Codewars exercises </summary>
@@ -56,46 +60,43 @@ Now, after more than 10 years, I decided to change the field of activity and try
   </a></p>
    </details>
 
+---
+
 ## My projects
 
 <i>The project implemented with React JS will be added soon.</i> 😃<i> In the meantime, you can look at projects implemented with pure HTML/CSS and Vanilla JS, which are located below.</i>
 
-<ul>
-<li>
+### Gem puzzle
+
+<p><strong>Tools:</strong> pure HTML and CSS, Vanilla JS, CSS-Flexbox, CSS-Variables, DocumentFragment </p>
 <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
 <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
-<p><strong>Tools: pure HTML and CSS, Vanilla JS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong> </p>
+
 <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image below.</p>
+<p align="center">
 <a href="https://confesssa.github.io/gem-puzzle/">
-<img src ="./assets/gem-puzzle.jpg"></a>
-</li>
-<li>
-<p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
-<p>Tools: pure HTML/CSS, Vanilla JS</p>
-<a href="https://confesssa.github.io/calculator-JS/">
-<img src ="./assets/calculator.png"></a>
-</li>
-<li>It's the Landing page about Bootstrap, created using Bootstrap. 😆 You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</li>
-<p>Tools: pure HTML/CSS, Bootstrap CSS + JS</p>
+<img width="75%" src ="./assets/gem-puzzle.jpg"></a>
+</p>
 
+### JS Calculator
+
+<p><strong>Tools:</strong> pure HTML/CSS, Vanilla JS</p>
+<p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
+<p>You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
+<a href="https://confesssa.github.io/calculator-JS/"></p>
+<p align="center"><img width="75%" src ="./assets/calculator.png"></a></p>
+
+### The Landing page about Bootstrap, created using Bootstrap 😆
+
+<p><strong>Tools:</strong> pure HTML/CSS, Bootstrap CSS + JS</p>
+<p>You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</p>
 <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">
-<img src ="./assets/bootstrap.jpg"></a>
+<p align="center"><img width="75%" src ="./assets/bootstrap.jpg"></a></p>
 
-<li>To be continued..</li>
-</ul>
-
-## Some stats
+## My GitHub Stats
 
 <details>
- <summary> <b>My Codewars Stats</b> </summary>
-<p><a href="https://www.codewars.com/users/confesssa/stats">
-<img src="https://www.codewars.com/users/confesssa/badges/small" alt="codewars">
-</img>
-</a></p>
- </details>
-
-<details>
- <summary> <b>My GitHub Stats</b> </summary>
+ <summary> <b>click here</b> </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confesssa&show_icons=true&locale=en&layout=compact" alt="confesssa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=confesssa&show_icons=true&locale=en" alt="confesssa" /></p>
