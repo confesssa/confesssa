@@ -1,7 +1,7 @@
 <p align="right">
-<a href="https://linkedin.com/in/volha-khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa" target="_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://fb.com/volha.khviadcheniahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://t.me/confesssahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
@@ -12,7 +12,7 @@
 <br>
 When I was in high school, computer science was one of my favorite subjects. One day, the teacher gave us a task as homework: to create a sample webpage. I remember that night I could not sleep and spent all the time doing my homework, and in the process I had a lot of fun. 😺 Unfortunately after that my life took a different turn, and for a long time my interest were directed to completely different fields.
 
-Now, after more than 10 years, I decided to change the field of activity and try myself as a developer, taking that long-forgotten path which had once appeared in my life. At the moment I am a student at <a href="https://rs.school/js/" target="_blank">RS.School</a>, and I have the ambition of becoming a full-fledged web developer. There is much to do and to learn, but I feel very motivated and ready to face this exciting challenge. 💪
+Now, after more than 10 years, I decided to change the field of activity and try myself as a developer, taking that long-forgotten path which had once appeared in my life. At the moment I am a student at <a href="https://rs.school/js/?target=_blank">RS.School</a>, and I have the ambition of becoming a full-fledged web developer. There is much to do and to learn, but I feel very motivated and ready to face this exciting challenge. 💪
 
 </details>
 
@@ -46,17 +46,17 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 **Web development courses**
 
-- [Rolling Scopes School](https://rs.school/poland/)
+- [Rolling Scopes School](https://rs.school/poland/?target=_blank)
   <details><summary>to see certificate click here</summary>
   <p><img width="50%" src="./assets/Certificate.jpg"></p>
    </details>
 
-- [React - Professional Development](https://www.udemy.com/course/pro-react-redux/) (incl Hooks, React Router, Redux)
+- [React - Professional Development](https://www.udemy.com/course/pro-react-redux/?target=_blank) (incl Hooks, React Router, Redux)
 
 - Codewars exercises
   <details> 
     <summary> statistic is here </summary>
-  <p><a href="https://www.codewars.com/users/confesssa/stats" target="_blank">
+  <p><a href="https://www.codewars.com/users/confesssa/stats?target=_blank">
   <img src="https://www.codewars.com/users/confesssa/badges/small" alt="codewars">
   </img>
   </a></p>
@@ -74,9 +74,9 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
 <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
 
-<p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/" target="_blank">here</a> or you can click on the image below.</p>
+<p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/?target=_blank">here</a> or you can click on the image below.</p>
 <p align="center">
-<a href="https://confesssa.github.io/gem-puzzle/" target="_blank">
+<a href="https://confesssa.github.io/gem-puzzle/?target=_blank">
 <img width="75%" src ="./assets/gem-puzzle.jpg"></a>
 </p>
 
@@ -84,15 +84,15 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 <p><strong>Tools:</strong> pure HTML/CSS, Vanilla JS</p>
 <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
-<p>You can find the code <a href="https://github.com/confesssa/calculator-JS" target="_blank">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/" target="_blank">here</a> or you can click on the image below.</p>
-<a href="https://confesssa.github.io/calculator-JS/" target="_blank"></p>
+<p>You can find the code <a href="https://github.com/confesssa/calculator-JS?target=_blank">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/?target=_blank">here</a> or you can click on the image below.</p>
+<a href="https://confesssa.github.io/calculator-JS/?target=_blank"></p>
 <p align="center"><img width="75%" src ="./assets/calculator.png"></a></p>
 
 ### The Landing page about Bootstrap, created using Bootstrap 😆
 
 <p><strong>Tools:</strong> pure HTML/CSS, Bootstrap CSS + JS</p>
 <p>You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</p>
-<a href="https://confesssa.github.io/Bootstrap-landing-page/index.html" target="_blank">
+<a href="https://confesssa.github.io/Bootstrap-landing-page/index.html?target=_blank">
 <p align="center"><img width="75%" src ="./assets/bootstrap.jpg"></a></p>
 
 ## My GitHub Stats
@@ -119,7 +119,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 ## Contact me
 
 <p align="left">
-<a href="https://linkedin.com/in/volha-khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa" target="_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://fb.com/volha.khviadcheniahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://t.me/confesssahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
