@@ -1,9 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 <p align="right">
-<a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volha-khviadchenia" height="30" width="40" /></a>
-<a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
-<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.png" alt="#5276" height="30"/></a>
+<a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://t.me/confesssa" target="blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
 ## Hi 👋 I'm Volha!
 
@@ -46,14 +46,16 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 **Web development courses**
 
-- <details><summary>Rolling Scopes School</summary>
+- [Rolling Scopes School](https://rs.school/poland/)
+  <details><summary>to see certificate click here</summary>
   <p><img width="50%" src="./assets/Certificate.jpg"></p>
    </details>
 
-- React - Professional Development (incl Hooks, React Router, Redux)
+- [React - Professional Development](https://www.udemy.com/course/pro-react-redux/) (incl Hooks, React Router, Redux)
 
-- <details> 
-    <summary> Codewars exercises </summary>
+- Codewars exercises
+  <details> 
+    <summary> statistic is here </summary>
   <p><a href="https://www.codewars.com/users/confesssa/stats">
   <img src="https://www.codewars.com/users/confesssa/badges/small" alt="codewars">
   </img>
@@ -117,7 +119,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 ## Contact me
 
 <p align="left">
-<a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volha-khviadchenia" height="30" width="40" /></a>
-<a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="volha.khviadchenia" height="30" width="40" /></a>
-<a href="https://t.me/confesssa" target="blank"><img align="" src="./assets/telegram.png" alt="#5276" height="30"/></a>
+<a href="https://linkedin.com/in/volha-khviadchenia" target="blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://fb.com/volha.khviadchenia" target="blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://t.me/confesssa" target="blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
