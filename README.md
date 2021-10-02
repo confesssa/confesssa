@@ -1,7 +1,7 @@
 <p align="right">
 <a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadcheniahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://fb.com/volha.khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
@@ -120,6 +120,6 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 <p align="left">
 <a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadcheniahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssahttps://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://fb.com/volha.khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
