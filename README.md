@@ -40,10 +40,6 @@ Now, after more than 10 years, I decided to change the field of activity and try
 
 ## Education
 
-**Higher education**
-
-- Brest State Technical University, Enterprise Economy and Management
-
 **Web development courses**
 
 - [Rolling Scopes School](https://rs.school/poland/?target=_blank)
@@ -61,6 +57,10 @@ Now, after more than 10 years, I decided to change the field of activity and try
   </img>
   </a></p>
    </details>
+
+**Higher education**
+
+- Brest State Technical University, Enterprise Economy and Management
 
 ---
 
