@@ -7,13 +7,10 @@
 
 ## Volha Khviadchenia
 
-<details>
- <summary> <b>A few words about me 👩</b> </summary>
-<p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
-<p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p> 
-<p></p>
+---
 
-</details>
+<p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
+<p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p>
 
 ---
 
