@@ -5,14 +5,13 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
-## Hi 👋 I'm Volha!
+## Volha Khviadchenia
 
 <details>
  <summary> <b>A few words about me 👩</b> </summary>
-<br>
-When I was in high school, computer science was one of my favorite subjects. One day, the teacher gave us a task as homework: to create a sample webpage. I remember that night I could not sleep and spent all the time doing my homework, and in the process I had a lot of fun. 😺 Unfortunately after that my life took a different turn, and for a long time my interest were directed to completely different fields.
-
-Now, after more than 10 years, I decided to change the field of activity and try myself as a developer, taking that long-forgotten path which had once appeared in my life. At the moment I am a student at <a href="https://rs.school/js/?target=_blank">RS.School</a>, and I have the ambition of becoming a full-fledged web developer. There is much to do and to learn, but I feel very motivated and ready to face this exciting challenge. 💪
+<p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
+<p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p> 
+<p></p>
 
 </details>
 
@@ -25,7 +24,7 @@ Now, after more than 10 years, I decided to change the field of activity and try
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img title="Markdown" src="./assets/1280px-Markdown-mark.svg.png" alt="markdown" width="45" height="40"/>
+<img title="Markdown" src="./assets/markdown.png" alt="markdown" height="40"/>
 </p>
 
 <p> 
