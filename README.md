@@ -5,7 +5,7 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
-## Volha Khviadchenia
+### Volha Khviadchenia
 
 ---
 
@@ -44,6 +44,7 @@
    </details>
 
 - [React - Professional Development](https://www.udemy.com/course/pro-react-redux/?target=_blank) (incl Hooks, React Router, Redux)
+- [Computer Science Basics](https://learn.epam.com/detailsPage?id=4b131384-7829-4204-a27b-21c538b41f88)
 
 - Codewars exercises
   <details> 
