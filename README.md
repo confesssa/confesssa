@@ -8,7 +8,6 @@
 
 # Volha Khviadchenia
 
----
 
 <p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
 <p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p>
@@ -59,7 +58,7 @@
 
 ---
 
-## My projects
+### My projects
 <i>At the moment I improve my React skills.</i> 💪
 
 ### To Do app
@@ -153,11 +152,11 @@ The keyboard responds to keystrokes on both real keyboards and virtual ones (tha
 </p>
 
 ---
-## My publication
+### My publication
 <p>There is <a href="https://confesssa.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> an article on Medium </a>about our team project Clone-Monefy</p>
 
 ---
-## My GitHub Stats
+### My GitHub Stats
 <details>
  <summary> <b>click here</b> </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confesssa&show_icons=true&locale=en&layout=compact" alt="confesssa" /></p>
