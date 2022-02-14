@@ -173,8 +173,8 @@ The keyboard responds to keystrokes on both real keyboards and virtual ones (tha
 <!--END_SECTION:waka-->
  <!-- </details> -->
 
-
-## Contact me
+-----
+### Contact me 📫
 
 <p align="left">
 <a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
