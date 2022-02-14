@@ -6,7 +6,7 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
-### Volha Khviadchenia
+# Volha Khviadchenia
 
 ---
 
@@ -14,8 +14,7 @@
 <p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p>
 
 ---
-
-## Skills
+### Skills
 <p>
 <img title="React" src="./assets/react.png" alt="react" height="35"/>
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
@@ -34,7 +33,7 @@
 
 ---
 
-## Education
+### Education
 **Web development courses**
 
 - [Rolling Scopes School](https://rs.school/poland/?target=_blank)
