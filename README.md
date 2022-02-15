@@ -66,13 +66,13 @@
 <table border="0">
   <tr>
     <th>Project description</th>
-    <th>Preview</th>
+    <th width="35%">Preview</th>
   </tr>
   <tr>
     <td>
-    <p style="color: red"><b>ToDo app</b></p>
+    <p style="color: red">ToDo APP</p>
       <p>
-        <strong>Tools:</strong> React
+        <strong>Tools: React</strong>
       </p>
       <p>
       Here's a simple todo app implemented with React. The project has the following functions:</p>
@@ -85,7 +85,7 @@
       </ul>
       <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/">here</a> or you can click on the image on the right.</p>
     </td>
-    <td width="40%">
+    <td>
     <a href="https://confesssa.github.io/todo-list/">
       <img src ="./assets/todo.png">
     </a>
@@ -95,7 +95,7 @@
     <td>
     <p style="color: red">TIC-TAC-TOE</p>
       <p>
-        <strong>Tools:</strong> React
+        <strong>Tools: React</strong>
       </p>
       <p>
         This version of the game allows you to:
@@ -108,7 +108,7 @@
       </ul>
       <p>You can find the code <a href="https://github.com/confesssa/tic-tac-toe">here</a>. Deploy is <a href="https://confesssa.github.io/tic-tac-toe/?target=_blank">here</a> or you can click on the image on the right.</p>
     </td>
-    <td width="40%">
+    <td>
     <a href="https://confesssa.github.io/tic-tac-toe/">
 <img src ="./assets/tic-tac-toe.png"></a>
 </td>
