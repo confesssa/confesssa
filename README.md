@@ -1,8 +1,8 @@
 <p align="right">
-<a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://linkedin.com/in/volha-khviadchenia"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
+<a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://t.me/confesssa"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
@@ -63,14 +63,14 @@
 
 ### React apps
 
-<table>
+<table border="0">
   <tr>
     <th>Project description</th>
     <th>Preview</th>
   </tr>
   <tr>
     <td>
-    <p style="color: red">TO DO APP</p>
+    <p style="color: red"><b>ToDo app</b></p>
       <p>
         <strong>Tools:</strong> React
       </p>
@@ -83,10 +83,10 @@
         <li>three types of filters, to display: all tasks, tasks to be performed and completed tasks;</li>
         <li>an information line that displays the number of uncompleted and completed tasks.</li>
       </ul>
-      <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/?target=_blank">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/">here</a> or you can click on the image on the right.</p>
     </td>
     <td width="40%">
-    <a href="https://confesssa.github.io/todo-list/?target=_blank">
+    <a href="https://confesssa.github.io/todo-list/">
       <img src ="./assets/todo.png">
     </a>
 </td>
@@ -109,7 +109,7 @@
       <p>You can find the code <a href="https://github.com/confesssa/tic-tac-toe">here</a>. Deploy is <a href="https://confesssa.github.io/tic-tac-toe/?target=_blank">here</a> or you can click on the image on the right.</p>
     </td>
     <td width="40%">
-    <a href="https://confesssa.github.io/tic-tac-toe/" target="_blank">
+    <a href="https://confesssa.github.io/tic-tac-toe/">
 <img src ="./assets/tic-tac-toe.png"></a>
 </td>
   </tr>
