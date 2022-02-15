@@ -61,23 +61,59 @@
 ### My projects
 <i>At the moment I improve my React skills.</i> 💪
 
-### To Do app
+### React apps
 
-<p><strong>Tools:</strong> React</p>
-<p>Here's a simple todo app implemented with React. The project has the following functions:</p>
-<ul>
-<li>add and delete task records;</li>
-<li>highlight important tasks with a color, crossing out completed tasks;</li>
-<li>search though the tasks;</li>
-<li>three types of filters, to display: all tasks, tasks to be performed and completed tasks;</li>
-<li>an information line that displays the number of uncompleted and completed tasks.</li>
-</ul>
-
-<p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/?target=_blank">here</a> or you can click on the image below.</p>
-<p align="center">
-<a href="https://confesssa.github.io/todo-list/?target=_blank">
-<img width="75%" src ="./assets/todo.png"></a>
-</p>
+<table>
+  <tr>
+    <th>Project description</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td>
+    <p style="color: red">TO DO APP</p>
+      <p>
+        <strong>Tools:</strong> React
+      </p>
+      <p>
+      Here's a simple todo app implemented with React. The project has the following functions:</p>
+      <ul>
+        <li>add and delete task records;</li>
+        <li>highlight important tasks with a color, crossing out completed tasks;</li>
+        <li>search though the tasks;</li>
+        <li>three types of filters, to display: all tasks, tasks to be performed and completed tasks;</li>
+        <li>an information line that displays the number of uncompleted and completed tasks.</li>
+      </ul>
+      <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/?target=_blank">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td width="40%">
+    <a href="https://confesssa.github.io/todo-list/?target=_blank">
+      <img src ="./assets/todo.png">
+    </a>
+</td>
+  </tr>
+    <tr>
+    <td>
+    <p style="color: red">TIC-TAC-TOE</p>
+      <p>
+        <strong>Tools:</strong> React
+      </p>
+      <p>
+        This version of the game allows you to:
+      </p>
+      <ul>
+        <li>play tic-tac-toe;</li>
+        <li>shows when one of the players has won;</li>
+        <li>stores the history of the game;</li>
+        <li>allows players to view the history of the game and see past states of the playing field;</li>
+      </ul>
+      <p>You can find the code <a href="https://github.com/confesssa/tic-tac-toe">here</a>. Deploy is <a href="https://confesssa.github.io/tic-tac-toe/?target=_blank">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td width="40%">
+    <a href="https://confesssa.github.io/tic-tac-toe/" target="_blank">
+<img src ="./assets/tic-tac-toe.png"></a>
+</td>
+  </tr>
+</table>
 
 
 ### Gem puzzle
@@ -178,7 +214,7 @@ The keyboard responds to keystrokes on both real keyboards and virtual ones (tha
 
 <p align="left">
 <a href="https://linkedin.com/in/volha-khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia?target=_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://fb.com/volha.khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
 <a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
 </p>
