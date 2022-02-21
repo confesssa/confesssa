@@ -115,7 +115,7 @@
   </tr>
 </table>
 
-### pure HTML, CSS and Vanilla JS
+### Vanilla JS, pure HTML, CSS
 
 <table border="0">
   <tr>
@@ -127,8 +127,8 @@
     <p style="color: red">Gem puzzle</p>
     <p> <strong>Tools: CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
       </p>
-<p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
-<p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
+    <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
+    <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
       <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
@@ -144,87 +144,96 @@
       </p>
       <p>The index.html file is empty, all elements are generated via JavaScript. The keyboard consists: alphanumeric keys (A-Z, 0-9), constrol keys (Shift, Ctrl, Alt, Caps Lock), Enter and editing keys (Del and Backspase), navigation keys (four arrows). 
       The keyboard responds to keystrokes on both real keyboards and virtual ones (that is with the mouse). In all cases they are accompanied by the animation of a key being pressed.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/virtual-keyboard">here</a>. Deploy is <a href="https://confesssa.github.io/virtual-keyboard/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-    <a href="https://confesssa.github.io/todo-list/">
-      <img src ="./assets/todo.png">
-    </a>
-</td>
+      <a href="https://confesssa.github.io/virtual-keyboard/">
+        <img src ="./assets/keyboard.png">
+      </a>
+    </td>
+    </tr>
+    <tr>
+      <td>
+      <p style="color: red">JS Calculator</p>
+      <p>
+        <strong>Tools: Vanilla JS</strong>
+      </p>
+      <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
+      <p>You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/virtual-keyboard/">
+        <img src ="./assets/calculator.png">
+      </a>
+    </td>
   </tr>
 </table>
 
+### pure HTML, CSS
 
-### Gem puzzle
-
-<p><strong>Tools:</strong> pure HTML and CSS, Vanilla JS, CSS-Flexbox, CSS-Variables, DocumentFragment </p>
-<p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
-<p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
-
-<p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/?target=_blank">here</a> or you can click on the image below.</p>
-<p align="center">
-<a href="https://confesssa.github.io/gem-puzzle/?target=_blank">
-<img width="75%" src ="./assets/gem-puzzle.jpg"></a>
-</p>
-
-### Virtual-keyboard
-
-<p><strong>Tools:</strong> pure HTML and CSS, Vanilla JS, CSS-Flexbox, CSS-Variables, JS-Classes, JS-Destructuring</p>
-
-<p>The index.html file is empty, all elements are generated via JavaScript. The keyboard consists: alphanumeric keys (A-Z, 0-9), constrol keys (Shift, Ctrl, Alt, Caps Lock), Enter and editing keys (Del and Backspase), navigation keys (four arrows). 
-The keyboard responds to keystrokes on both real keyboards and virtual ones (that is with the mouse). In all cases they are accompanied by the animation of a key being pressed.</p>
-
-<p>You can find the code <a href="https://github.com/confesssa/virtual-keyboard">here</a>. Deploy is <a href="https://confesssa.github.io/virtual-keyboard/?target=_blank">here</a> or you can click on the image below.</p>
-<p align="center">
-<a href="https://confesssa.github.io/virtual-keyboard/?target=_blank">
-<img width="75%" src ="./assets/keyboard.png"></a>
-</p>
-
-### JS Calculator
-
-<p><strong>Tools:</strong> pure HTML/CSS, Vanilla JS</p>
-<p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
-<p>You can find the code <a href="https://github.com/confesssa/calculator-JS?target=_blank">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/?target=_blank">here</a> or you can click on the image below.</p>
-<a href="https://confesssa.github.io/calculator-JS/?target=_blank"></p>
-<p align="center"><img width="75%" src ="./assets/calculator.png"></a></p>
-
-### Relvise
-
-<p><strong>Tools:</strong> pure HTML/CSS, vanilla JavaScript, BEM-metodology, CSS-Flexbox, CSS-Variables</p>
-<p>Here is a responsive layout for a finance and consulting company.</p>
-<p>You can find the code <a href="https://github.com/confesssa/relvise">here</a>. Deploy is <a href="https://confesssa.github.io/Relvise/">here</a> or you can click on the image below.</p>
-<p align="center">
-<a href="https://confesssa.github.io/Relvise/">
-<img width="75%" src ="./assets/relvise.jpg"></a>
-</p>
-
-
-### The Landing page about Bootstrap, created using Bootstrap 😆
-
-<p><strong>Tools:</strong> pure HTML/CSS, Bootstrap CSS + JS</p>
-<p>You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image below.</p>
-<a href="https://confesssa.github.io/Bootstrap-landing-page/index.html?target=_blank">
-<p align="center"><img width="75%" src ="./assets/bootstrap.jpg"></a></p>
-
-### Singolo
-
-<p><strong>Tools:</strong> pure HTML/CSS, Vanilla JS</p>
-<p>It is a simple landing page.</p>
-<p>You can find the code <a href="https://github.com/confesssa/singolo">here</a>. Deploy is <a href="https://confesssa.github.io/singolo/">here</a> or you can click on the image below.</p>
-<p align="center">
-<a href="https://confesssa.github.io/singolo/">
-<img width="75%" src ="./assets/singolo.png"></a>
-</p>
-
-### Shelter
-
-<p><strong>Tools:</strong> pure HTML/CSS</p>
-<p>It is a two-page website about an animal shelter in Boston.</p>
-<p>You can find the code <a href="https://github.com/confesssa/shelter">here</a>. Deploy is <a href="https://confesssa.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
-<p align="center">
-<a href="https://confesssa.github.io/shelter/pages/main/main.html">
-<img width="75%" src ="./assets/shelter.png"></a>
-</p>
+<table border="0">
+  <tr>
+    <th>Project description</th>
+    <th width="35%">Preview</th>
+  </tr>
+  <tr>
+    <td>
+    <p style="color: red">Relvise</p>
+    <p> <strong>Tools: pure HTML/CSS, vanilla JavaScript, BEM-metodology, CSS-Flexbox, CSS-Variables</strong>
+      </p>
+    <p>Here is a responsive layout for a finance and consulting company.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/relvise">here</a>. Deploy is <a href="https://confesssa.github.io/Relvise/">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/Relvise/">
+      <img src ="./assets/relvise.jpg"></a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <p style="color: red">The Landing page about Bootstrap, created using Bootstrap 😆</p>
+      <p>
+        <strong>Tools: pure HTML/CSS, Bootstrap CSS + JS</strong>
+      </p>
+      <p>You can find the code <a href="https://github.com/confesssa/Bootstrap-landing-page">here</a>. Deploy is <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/Bootstrap-landing-page/index.html">
+        <img src ="./assets/bootstrap.jpg">
+      </a>
+    </td>
+    </tr>
+        <tr>
+      <td>
+      <p style="color: red">Singolo</p>
+      <p>
+        <strong>Tools: pure HTML/CSS</strong>
+      </p>
+      <p>It is a simple landing page.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/singolo">here</a>. Deploy is <a href="https://confesssa.github.io/singolo/">here</a> or you can click on the image below.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/singolo/">
+        <img src ="./assets/singolo.png">
+      </a>
+    </td>
+  </tr>
+    <tr>
+      <td>
+      <p style="color: red">Shelter</p>
+      <p>
+        <strong>Tools: pure HTML/CSS</strong>
+      </p>
+      <p>It is a two-page website about an animal shelter in Boston.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/shelter">here</a>. Deploy is <a href="https://confesssa.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/shelter/pages/main/main.html">
+        <img src ="./assets/shelter.png">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ### My publication
