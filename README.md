@@ -115,6 +115,45 @@
   </tr>
 </table>
 
+### pure HTML, CSS and Vanilla JS
+
+<table border="0">
+  <tr>
+    <th>Project description</th>
+    <th width="35%">Preview</th>
+  </tr>
+  <tr>
+    <td>
+    <p style="color: red">Gem puzzle</p>
+    <p> <strong>Tools: CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
+      </p>
+<p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
+<p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/gem-puzzle">here</a>. Deploy is <a href="https://confesssa.github.io/gem-puzzle/">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/gem-puzzle/">
+      <img src ="./assets/gem-puzzle.jpg"></a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <p style="color: red">Virtual-keyboard</p>
+      <p>
+        <strong>Tools: CSS-Flexbox, CSS-Variables, JS-Classes, JS-Destructuring</strong>
+      </p>
+      <p>The index.html file is empty, all elements are generated via JavaScript. The keyboard consists: alphanumeric keys (A-Z, 0-9), constrol keys (Shift, Ctrl, Alt, Caps Lock), Enter and editing keys (Del and Backspase), navigation keys (four arrows). 
+      The keyboard responds to keystrokes on both real keyboards and virtual ones (that is with the mouse). In all cases they are accompanied by the animation of a key being pressed.</p>
+      <p>You can find the code <a href="https://github.com/confesssa/todo-list">here</a>. Deploy is <a href="https://confesssa.github.io/todo-list/">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+    <a href="https://confesssa.github.io/todo-list/">
+      <img src ="./assets/todo.png">
+    </a>
+</td>
+  </tr>
+</table>
+
 
 ### Gem puzzle
 
