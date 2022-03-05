@@ -156,7 +156,7 @@
       <td>
       <p style="color: red">JS Calculator</p>
       <p>
-        <strong>Tools: Vanilla JS, pure HTML/CSS</strong>
+        <strong>Tools: vanilla JS, pure HTML/CSS</strong>
       </p>
       <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
       <p>You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
@@ -179,7 +179,7 @@
     <tr>
     <td>
     <p style="color: red">Relvise</p>
-    <p> <strong>Tools: pure HTML/CSS, vanilla JavaScript, Farebase, fetch API, Bootsrap</strong>
+    <p> <strong>Tools: vanilla JavaScript, Farebase, fetch API, pure HTML/CSS, Bootsrap</strong>
       </p>
     <p>Here is an example of a marketplace.</p>
     <p>The main page implements the receipt of data from the network, search and sorting by goods.</p>
@@ -195,7 +195,7 @@
   <tr>
     <td>
     <p style="color: red">Relvise</p>
-    <p> <strong>Tools: pure HTML/CSS, vanilla JavaScript, BEM-metodology, CSS-Flexbox, CSS-Variables</strong>
+    <p> <strong>Tools: vanilla JavaScript, pure HTML/CSS, BEM-metodology, CSS-Flexbox, CSS-Variables</strong>
       </p>
     <p>Here is a responsive layout for a finance and consulting company.</p>
       <p>You can find the code <a href="https://github.com/confesssa/relvise">here</a>. Deploy is <a href="https://confesssa.github.io/Relvise/">here</a> or you can click on the image on the right.</p>
@@ -223,7 +223,7 @@
       <td>
       <p style="color: red">Singolo</p>
       <p>
-        <strong>Tools: pure HTML/CSS</strong>
+        <strong>Tools: vanilla JS, pure HTML/CSS, Flexbox, CSS-Variables</strong>
       </p>
       <p>It is a simple landing page.</p>
       <p>You can find the code <a href="https://github.com/confesssa/singolo">here</a>. Deploy is <a href="https://confesssa.github.io/singolo/">here</a> or you can click on the image below.</p>
@@ -238,7 +238,7 @@
       <td>
       <p style="color: red">Shelter</p>
       <p>
-        <strong>Tools: pure HTML/CSS</strong>
+        <strong>Tools: pure HTML/CSS, Flexbox</strong>
       </p>
       <p>It is a two-page website about an animal shelter in Boston.</p>
       <p>You can find the code <a href="https://github.com/confesssa/shelter">here</a>. Deploy is <a href="https://confesssa.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
