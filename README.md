@@ -115,7 +115,7 @@
   </tr>
 </table>
 
-### Vanilla JS, pure HTML, CSS
+### Vanilla JS apps
 
 <table border="0">
   <tr>
@@ -125,7 +125,7 @@
   <tr>
     <td>
     <p style="color: red">Gem puzzle</p>
-    <p> <strong>Tools: CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
+    <p> <strong>Tools: pure HTML/CSS, CSS-Flexbox, CSS-Variables, DocumentFragment</strong>
       </p>
     <p>Here is the well-known game Gem puzzle or Game of 15. There are 15 tiles on the field, moving which the player should get the picture shown in the sample on the left. When the page is loaded and reset is pressed, the state of the playing field is generated randomly. After the start of the game, a move counter and a timer are activated. The movement of the tiles and the end of the game are accompanied by sounds.</p>
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
@@ -140,7 +140,7 @@
     <td>
     <p style="color: red">Virtual-keyboard</p>
       <p>
-        <strong>Tools: CSS-Flexbox, CSS-Variables, JS-Classes, JS-Destructuring</strong>
+        <strong>Tools: pure HTML/CSS, CSS-Flexbox, CSS-Variables, JS-Classes, JS-Destructuring</strong>
       </p>
       <p>The index.html file is empty, all elements are generated via JavaScript. The keyboard consists: alphanumeric keys (A-Z, 0-9), constrol keys (Shift, Ctrl, Alt, Caps Lock), Enter and editing keys (Del and Backspase), navigation keys (four arrows). 
       The keyboard responds to keystrokes on both real keyboards and virtual ones (that is with the mouse). In all cases they are accompanied by the animation of a key being pressed.</p>
@@ -156,26 +156,42 @@
       <td>
       <p style="color: red">JS Calculator</p>
       <p>
-        <strong>Tools: Vanilla JS</strong>
+        <strong>Tools: Vanilla JS, pure HTML/CSS</strong>
       </p>
       <p>Here is a classic calculator, created using Vanilla JS. It has basic functions (multiplication, division, addition, subtraction), as well as a decimal separator, root extraction (square, cube, and so on), exponentiation, the undoing of the last input and the ability to work with both positive and negative numbers. </p>
       <p>You can find the code <a href="https://github.com/confesssa/calculator-JS">here</a>. Deploy is <a href="https://confesssa.github.io/calculator-JS/">here</a> or you can click on the image below.</p>
     </td>
     <td>
-      <a href="https://confesssa.github.io/virtual-keyboard/">
+      <a href="https://confesssa.github.io/calculator-JS/">
         <img src ="./assets/calculator.png">
       </a>
     </td>
   </tr>
 </table>
 
-### pure HTML, CSS
+### Web-site`s template
 
 <table border="0">
   <tr>
     <th>Project description</th>
     <th width="35%">Preview</th>
   </tr>
+    <tr>
+    <td>
+    <p style="color: red">Relvise</p>
+    <p> <strong>Tools: pure HTML/CSS, vanilla JavaScript, Farebase, fetch API, Bootsrap</strong>
+      </p>
+    <p>Here is an example of a marketplace.</p>
+    <p>The main page implements the receipt of data from the network, search and sorting by goods.</p>
+    <p>On the page with product categories you can add and process products in the shopping cart, implemented work with forms, and sending data from the shopping cart to the server.</p>
+    <p>You can find the code <a href="https://github.com/confesssa/wildberries">here</a>. Deploy is <a href="https://confesssa.github.io/wildberries/index.html">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/wildberries/index.html">
+      <img src ="./assets/willberries.jpg"></a>
+    </td>
+  </tr>
+
   <tr>
     <td>
     <p style="color: red">Relvise</p>
