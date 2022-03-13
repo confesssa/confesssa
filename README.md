@@ -251,6 +251,28 @@
   </tr>
 </table>
 
+### Team-project I took part in
+<!-- <table border="0">
+  <tr>
+    <th>Project description</th>
+    <th width="35%">Preview</th>
+  </tr>
+    <tr>
+    <td>
+    <p style="color: red">COVID-19</p>
+    <p> <strong>Tools: vanilla JavaScript, Farebase, fetch API, pure HTML/CSS, Bootsrap</strong>
+      </p>
+    <p>Here is an example of a marketplace.</p>
+    <p>You can find the code <a href="https://github.com/confesssa/wildberries">here</a>. Deploy is <a href="https://confesssa.github.io/wildberries/index.html">here</a> or you can click on the image on the right.</p>
+    </td>
+    <td>
+      <a href="https://confesssa.github.io/wildberries/index.html">
+      <img src ="./assets/willberries.jpg"></a>
+    </td>
+  </tr>
+</table> -->
+
+
 ---
 ### My publication
 <p>There is <a href="https://confesssa.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> an article on Medium </a>about our team project Clone-Monefy</p>
