@@ -266,7 +266,7 @@
     </td>
     <td>
       <a href="https://github.com/DimaKukhta/rsclone">
-      <img src ="./assets/monefy.png"></a>
+      <img src ="./assets/monefy.jpg"></a>
     </td>
   </tr>
 
@@ -274,11 +274,11 @@
     <td>
       <p style="color: red">COVID-19</p>
       <p> <strong>Tools: REST API, fetch API, vanilla JavaScript, pure HTML/CSS, Flexbox</strong></p>
-      <p>Here is an example of a marketplace.</p>
+      <p>Application for tracking the spread of COVID-19 in the world and in individual countries. The information is provided in the form of a table, list, graph and interactive map.</p>
       <p>You can find the code <a href="https://github.com/confesssa/COVID">here</a>. Deploy is <a href="https://confesssa.github.io/COVID/">here</a> or you can click on the image on the right.</p>
     </td>
     <td>
-      <a href="https://github.com/confesssa/COVID">
+      <a href="https://confesssa.github.io/COVID/">
       <img src ="./assets/covid19.png"></a>
     </td>
   </tr>
