@@ -8,12 +8,13 @@
 
 # Volha Khviadchenia
 
-
 <p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
 <p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. For what concerns employment in Poland, I also have Karta Polaka. Feel free to contact me in case of any queries 🙌</p>
 
 ---
+
 ### Skills
+
 <p>
 <img title="React" src="./assets/react.png" alt="react" height="35"/>
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
@@ -33,6 +34,7 @@
 ---
 
 ### Education
+
 **Web development courses**
 
 - [Rolling Scopes School](https://rs.school/poland/?target=_blank)
@@ -59,6 +61,7 @@
 ---
 
 ### My projects
+
 <i>At the moment I improve my React skills.</i> 💪
 
 ### React apps
@@ -176,15 +179,16 @@
     <th>Project description</th>
     <th width="35%">Preview</th>
   </tr>
-    <tr>
+  <tr>
     <td>
-    <p style="color: red">Relvise</p>
+    <p style="color: red">Willberries</p>
     <p> <strong>Tools: vanilla JavaScript, Farebase, fetch API, pure HTML/CSS, Bootsrap</strong>
       </p>
     <p>Here is an example of a marketplace.</p>
     <p>The main page implements the receipt of data from the network, search and sorting by goods.</p>
     <p>On the page with product categories you can add and process products in the shopping cart, implemented work with forms, and sending data from the shopping cart to the server.</p>
     <p>You can find the code <a href="https://github.com/confesssa/wildberries">here</a>. Deploy is <a href="https://confesssa.github.io/wildberries/index.html">here</a> or you can click on the image on the right.</p>
+    <p><a href="https://www.figma.com/file/wKDy8hlEa1U7lvAzIiBxER/Will-Berries-(Copy)?node-id=0%3A1">Figma layout</a></p>
     </td>
     <td>
       <a href="https://confesssa.github.io/wildberries/index.html">
@@ -198,7 +202,8 @@
     <p> <strong>Tools: vanilla JavaScript, pure HTML/CSS, BEM-metodology, CSS-Flexbox, CSS-Variables</strong>
       </p>
     <p>Here is a responsive layout for a finance and consulting company.</p>
-      <p>You can find the code <a href="https://github.com/confesssa/relvise">here</a>. Deploy is <a href="https://confesssa.github.io/Relvise/">here</a> or you can click on the image on the right.</p>
+    <p>You can find the code <a href="https://github.com/confesssa/relvise">here</a>. Deploy is <a href="https://confesssa.github.io/Relvise/">here</a> or you can click on the image on the right.</p>
+    <p><a href="https://www.figma.com/file/ZiKvI8IWyuMf5IhSt9X5oV/Relvise-(Copy)?node-id=964%3A5456">Figma layout</a></p>
     </td>
     <td>
       <a href="https://confesssa.github.io/Relvise/">
@@ -227,6 +232,7 @@
       </p>
       <p>It is a simple landing page.</p>
       <p>You can find the code <a href="https://github.com/confesssa/singolo">here</a>. Deploy is <a href="https://confesssa.github.io/singolo/">here</a> or you can click on the image below.</p>
+      <p><a href="https://www.figma.com/file/clXHoPLCjffBg5nL197EiJ/Singolo-(Copy)?node-id=0%3A1">Figma layout</a></p>
     </td>
     <td>
       <a href="https://confesssa.github.io/singolo/">
@@ -242,6 +248,7 @@
       </p>
       <p>It is a two-page website about an animal shelter in Boston.</p>
       <p>You can find the code <a href="https://github.com/confesssa/shelter">here</a>. Deploy is <a href="https://confesssa.github.io/shelter/pages/main/main.html">here</a> or you can click on the image below.</p>
+      <p><a href="https://www.figma.com/file/7vtKQVvagB45XbB8dg4LGP/shelter-dom-(Copy)?node-id=94%3A43">Figma layout</a></p>
     </td>
     <td>
       <a href="https://confesssa.github.io/shelter/pages/main/main.html">
@@ -252,6 +259,7 @@
 </table>
 
 ### Team-project I took part in
+
 <table border="0">
   <tr>
     <th>Project description</th>
@@ -269,7 +277,6 @@
       <img src ="./assets/monefy.jpg"></a>
     </td>
   </tr>
-
   <tr>
     <td>
       <p style="color: red">COVID-19</p>
@@ -284,13 +291,13 @@
   </tr>
 </table>
 
-
 ---
+
 <!-- ### My publication -->
 <!-- <p>There is <a href="https://confesssa.medium.com/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-rolling-scopes-school-%D0%BA%D0%BB%D0%BE%D0%BD-monefy-4402a007b6aa"> an article on Medium </a>about our team project Clone-Monefy</p> -->
 
----
 ### My GitHub Stats
+
 <details>
  <summary> <b>click here</b> </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=confesssa&show_icons=true&locale=en&layout=compact" alt="confesssa" /></p>
@@ -307,7 +314,8 @@
 <!--END_SECTION:waka-->
  <!-- </details> -->
 
------
+---
+
 ### Contact me 📫
 
 <p align="left">
