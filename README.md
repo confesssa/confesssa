@@ -1,12 +1,12 @@
 <p align="right">
-<a href="https://linkedin.com/in/confesssa"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://linkedin.com/in/confesssa"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="confesssa" height="30" /></a>
+<a href="https://fb.com/confesssa"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="confesssa" height="30" /></a>
+<a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="confesssa" height="30" /></a>
+<a href="https://t.me/confesssa"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="confesssa" height="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=confesssa&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
-# Volha Khviadchenia
+# Confesssa
 
 <p>For the last two years I have devoted a lot of time and energy to web development. 💻 At first I studied independently HTML, CSS and Javascript languages. Since September 2020 I began to attend the <a href="https://rs.school/poland/?target=_blank">Rollings Scopes School courses</a> and completed them successfully after 6 months, entering the top 300 students. 🎉 The courses helped me deepen my theoretical understanding of HTML, CSS, and JavaScript, and also hone my practical skills by completing lengthy hands-on exercises. I went ahead and I am currently exploring the React library and the related Redux, Hooks and React Router.</p>
 <p>So I'm a junior front-end developer with React. I am looking for a position in Wrocław or remotely. Feel free to contact me in case of any queries 🙌</p>
@@ -319,8 +319,8 @@
 ### Contact me 📫
 
 <p align="left">
-<a href="https://linkedin.com/in/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="volha-khviadchenia" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Volha Khviadchenia" height="30"/></a>
+<a href="https://linkedin.com/in/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="confesssa" height="30" /></a>
+<a href="https://fb.com/confesssa" target="_blank"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="confesssa" height="30" /></a>
+<a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="confesssa" height="30" /></a>
+<a href="https://t.me/confesssa?target=_blank"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="confesssa" height="30"/></a>
 </p>
